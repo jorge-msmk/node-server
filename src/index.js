@@ -2,7 +2,7 @@ import express from 'express';
 import productRoutes from "./routes/productRoutes.js";
 
 const app = express();
-const PORT = 3000;
+const PORT = 3001;
 
 // Middleware para poder leer JSON
 app.use(express.json());
@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
 
 // Empezamos a utilizar las rutas de productos
 app.use("/api/products", productRoutes);
-
+app.use("/api/users", productRoutes);
 // Iniciar el servidor
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en http://localhost:${PORT}`);

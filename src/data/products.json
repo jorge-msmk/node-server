@@ -2,16 +2,61 @@
   {
     "id": 1,
     "name": "Laptop",
-    "price": 1000
+    "price": 1500
   },
   {
     "id": 2,
-    "name": "Mouse",
-    "price": 50
+    "name": "Laptop",
+    "price": 1500
   },
   {
     "id": 3,
     "name": "Teclado",
     "price": 80
+  },
+  {
+    "id": 4,
+    "name": "vitaminas",
+    "price": 80
+  },
+  {
+    "id": 5,
+    "name": "Moto de Agua",
+    "price": 10000
+  },
+  {
+    "id": 6,
+    "name": "gorrocóptero",
+    "price": 5554
+  },
+  {
+    "id": 7,
+    "name": "bolas de dragon",
+    "price": 888
+  },
+  {
+    "id": 8,
+    "name": "ordenador",
+    "price": 2000
+  },
+  {
+    "id": 9,
+    "name": "esterilla",
+    "price": 150
+  },
+  {
+    "id": 10,
+    "name": "coche",
+    "price": 40000
+  },
+  {
+    "id": 11,
+    "name": "pantalones de verano",
+    "price": 200
+  },
+  {
+    "id": 12,
+    "name": "gafas de sol",
+    "price": 300
   }
 ]
