@@ -6,12 +6,30 @@
   },
   {
     "id": 2,
-    "name": "Mouse",
-    "price": 50
+    "name": "ordenador portatil",
+    "price": 100000000
   },
   {
     "id": 3,
     "name": "Teclado",
     "price": 80
+  },
+  {
+    "id": 4,
+    "name": "Alfombrilla",
+    "price": 20
+  },
+  {
+    "id": 5
+  },
+  {
+    "id": 6,
+    "name": "aguacate",
+    "price": 1
+  },
+  {
+    "id": 7,
+    "name": "neuroconsolador X3002",
+    "price": 667
   }
 ]
