@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Laptop",
+    "name": "ordenador portatil",
     "price": 1000
   },
   {
@@ -13,5 +13,23 @@
     "id": 3,
     "name": "Teclado",
     "price": 80
+  },
+  {
+    "id": 4
+  },
+  {
+    "id": 5,
+    "name": "coche",
+    "price": 400
+  },
+  {
+    "id": 6,
+    "name": "bici",
+    "price": 100
+  },
+  {
+    "id": 7,
+    "name": "pantalon de verano",
+    "price": 111
   }
 ]

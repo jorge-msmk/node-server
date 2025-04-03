@@ -14,6 +14,7 @@ app.get('/', (req, res) => {
 
 // Empezamos a utilizar las rutas de productos
 app.use("/api/products", productRoutes);
+app.use("/api/users", productRoutes);
 
 // Iniciar el servidor
 app.listen(PORT, () => {
