@@ -1,9 +1,13 @@
 import express from 'express';
+import cors from 'cors';
 import productRoutes from "./routes/productRoutes.js";
 import userRoutes from "./routes/userRoutes.js"
 
 const app = express();
 const PORT = 3000;
+
+// Habilitar CORS para todas las solicitudes
+app.use(cors());
 
 // Middleware para poder leer JSON
 app.use(express.json());
