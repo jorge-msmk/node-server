@@ -6,7 +6,7 @@ import { fileURLToPath } from "url";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const dataPath = path.join(__dirname, "../data/products.json");
+const dataPath = path.join(__dirname, "../../data/products.json");
 
 // Función auxiliar para leer el archivo JSON
 const readData = () => {
